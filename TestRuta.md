@@ -3,11 +3,13 @@ En esta guía se van a comprar las distribuciones de los sistemas ya antes menci
 **Ruta** es un proyecto de juegos para casino, que cuenta actualmente con 6 tipos de juegos.
 # Xubuntu 20.04 LTS
 Xubuntu es una distro de Linux basada en Ubuntu como su propio nombre lo indica, y utiliza el entorno de escritorio XFCE. Está diseñada para usuarios con equipos limitados ya que únicamente necesita.
+
 |      | VALOR |
 | ------ | ------ |
 | RAM | 1 Gb |
 | DISCO | 8 Gb |
 | Tamaño de iso | 1.6 Gb |
+
 Este sistema operativo trae muchas cosas que no son necesarias para correr Ruta, como por ejemplo libreoffice, aplicaciones multimedia, entro otras.
 El soporte de esta distribucion es de 3 años.
 # Sistema operativo Ubuntu Server 20.04 LTS
