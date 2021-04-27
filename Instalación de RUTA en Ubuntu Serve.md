@@ -76,40 +76,39 @@ Desde que se presiona *el botón de arranque* hasta que aparece la *vista del la
 |BlackJack  RAM:2,49 CPU:100%~114%|BlackJack  RAM:2,50 CPU:100%~140%|
 |Ruleta RAM:2,69 CPU:120%~150%|Ruleta RAM:2,78 CPU:110%~179%|
 
-﻿||||**Sistema**|**Operativo**||
+||||**Sistema**|**Operativo**||
 | :- | :- | :-: | :-: | :-: | :-: |
 |**Ejecución**|**Proceso**|**Ubuntu Server**|**Xubuntu**|**Ubuntu Server**|**Xubuntu**|
-|**Encendido**|Tiempo de encendido(seg)|2,40|2,37|  | ✓ | 
-|**Lanzador**|CPU(%)|53-63|65-70| ✓ | |
+|Encendido|Tiempo de encendido(seg)|2,40|2,37|  | ✓ | 
+|Lanzador|CPU(%)|53-63|65-70| ✓ | |
 ||RAM(Gb)|2,18|2,16| | ✓ | 
-|**Blackjack**|Tiempo 1ra vez(seg)|6|5,59| | ✓ | 
+|Blackjack|Tiempo 1ra vez(seg)|6|5,59| | ✓ | 
 ||Tiempo despues(seg)|3,5|3,66| ✓ | |
 ||CPU(%)|100-114|100-140| ✓ | |
 ||RAM(Gb)|2,49|2,50| ✓ | |
-|**Ruleta**|Tiempo 1ra vez(seg)|6|7,48| ✓ | |
+|Ruleta|Tiempo 1ra vez(seg)|6|7,48| ✓ | |
 ||Tiempo despues(seg)|3|3,50| ✓ | |
 ||CPU(%)|120-150|110-179| ✓ | |
 ||RAM(Gb)|2,69|2,78| ✓ | |
-|**Dados**|Tiempo 1ra vez(seg)|8.78|8.83| ✓ | |
+|Dados|Tiempo 1ra vez(seg)|8.78|8.83| ✓ | |
 ||Tiempo despues(seg)|3|3.71| ✓ | |
 ||CPU(%)|120-155|100-144|  | ✓ | 
 ||RAM(Gb)|2.77|2.9| ✓ | |
-|**La24**|Tiempo 1ra vez(seg)|6|7.34|✓ | |
+|La24|Tiempo 1ra vez(seg)|6|7.34|✓ | |
 ||Tiempo despues(seg)|3|3.73|✓ | |
 ||CPU(%)|130-153|130-160|✓ | |
 ||RAM(Gb)|2.69|2.89|✓ | |
-|**Poker**|Tiempo 1ra vez(seg)|11|9.32| | ✓ | 
+|Poker|Tiempo 1ra vez(seg)|11|9.32| | ✓ | 
 ||Tiempo despues(seg)|3|3.37|✓ | |
 ||CPU(%)|115-229|90-276|✓ | |
 ||RAM(Gb)|2.7|3.14|✓ | |
-|**Rieles**|Tiempo 1ra vez(seg)|3.50|3.62|✓ | |
+|Rieles|Tiempo 1ra vez(seg)|3.50|3.62|✓ | |
 ||Tiempo despues(seg)|2.11|3.23|✓ | |
 ||CPU(%)|45-215|70-210|✓ | |
 ||RAM(Gb)|2.70|2.97|✓ | |
 ||||**Total**|22 (81.48%)|5 (18.52%)|
 
 
-**Nota:** 
 
 ## Instalación del entorno de trabajo
 Se va ha realizar las instalaciones que corresponde al entorno de escritorio, un gestor de sesión, y programas que se van a usted como complemento
